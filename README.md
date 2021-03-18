@@ -10,7 +10,7 @@ Chat desenvolvido para estudar websocket, utilizando laravel (API e Websocket) e
 
 - Autenticação;
 - Signup
-- Listagem de usuário cadastrados
+- Listagem de usuários cadastrados
 - Notificação de nova mensagem;
 
 ## Install <a name = "install"></a>
