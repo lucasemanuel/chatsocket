@@ -1,6 +1,6 @@
 # <a name="logo">CHATSOCKET</a>
 
-> Chat desenvolvido com websocket, utilizando laravel (API e Websocket) e Vue (UI).
+> Chat desenvolvido com websocket, utilizando Laravel (API e Websocket) e Vue (UI).
 
 ## Features <a name = "features"></a>
 
